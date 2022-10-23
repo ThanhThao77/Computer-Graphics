@@ -1,0 +1,12 @@
+﻿  Main_VeOto.cpp
+E:\OpenGL_Dohoamaytinh\OpenGL Project\Project_VeOTo\Main_VeOto.cpp(155,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OpenGL_Dohoamaytinh\OpenGL Project\Project_VeOTo\Main_VeOto.cpp(207,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\OpenGL Project\Project_VeOTo\Main_VeOto.cpp(220,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\OpenGL Project\Project_VeOTo\Main_VeOto.cpp(225,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\OpenGL Project\Project_VeOTo\Main_VeOto.cpp(227,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\OpenGL Project\Project_VeOTo\Main_VeOto.cpp(231,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\OpenGL Project\Project_VeOTo\Main_VeOto.cpp(236,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\OpenGL Project\Project_VeOTo\Main_VeOto.cpp(241,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\OpenGL Project\Project_VeOTo\Main_VeOto.cpp(261,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\OpenGL_Dohoamaytinh\OpenGL Project\Project_VeOTo\Main_VeOto.cpp(265,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project_VeOTo.vcxproj -> E:\OpenGL_Dohoamaytinh\OpenGL Project\x64\Debug\Project_VeOTo.exe

@@ -1,0 +1,4 @@
+﻿  Main_Brese.cpp
+E:\OpenGL_Dohoamaytinh\OpenGL Project\Project2_Bresenham\Main_Brese.cpp(12,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\OpenGL_Dohoamaytinh\OpenGL Project\Project2_Bresenham\Main_Brese.cpp(12,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Project2_Bresenham.vcxproj -> E:\OpenGL_Dohoamaytinh\OpenGL Project\x64\Debug\Project2_Bresenham.exe

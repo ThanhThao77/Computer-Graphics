@@ -1,0 +1,10 @@
+﻿  Main.cpp
+E:\OpenGL_Dohoamaytinh\OpenGL Project\Project1_example\Main.cpp(8,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\OpenGL Project\Project1_example\Main.cpp(9,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\OpenGL Project\Project1_example\Main.cpp(10,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\OpenGL Project\Project1_example\Main.cpp(11,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\OpenGL Project\Project1_example\Main.cpp(22,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\OpenGL Project\Project1_example\Main.cpp(23,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\OpenGL Project\Project1_example\Main.cpp(24,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\OpenGL Project\Project1_example\Main.cpp(25,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Project1_example.vcxproj -> E:\OpenGL_Dohoamaytinh\OpenGL Project\x64\Debug\Project1_example.exe

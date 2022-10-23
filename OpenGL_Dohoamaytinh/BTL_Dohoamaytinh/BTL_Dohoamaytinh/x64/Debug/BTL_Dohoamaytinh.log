@@ -1,0 +1,37 @@
+﻿  Main.cpp
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(10,18): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(12,13): warning C4553: '==': result of expression not used; did you intend '='?
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(66,61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(73,61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(76,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(77,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(85,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(86,34): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(86,29): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(93,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(94,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(119,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(119,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(127,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(132,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(141,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(144,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(144,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(151,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(151,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(159,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(160,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(160,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(166,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(167,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(167,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(173,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(180,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(183,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(183,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(188,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(191,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(191,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(229,35): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\BTL_Dohoamaytinh\Main.cpp(233,33): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+  BTL_Dohoamaytinh.vcxproj -> E:\OpenGL_Dohoamaytinh\BTL_Dohoamaytinh\x64\Debug\BTL_Dohoamaytinh.exe

@@ -1,0 +1,6 @@
+﻿  Main_amtra.cpp
+E:\OpenGL_Dohoamaytinh\OpenGL Project\Project_amtra\Main_amtra.cpp(291,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\OpenGL Project\Project_amtra\Main_amtra.cpp(295,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\OpenGL Project\Project_amtra\Main_amtra.cpp(300,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL_Dohoamaytinh\OpenGL Project\Project_amtra\Main_amtra.cpp(319,16): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Project_amtra.vcxproj -> E:\OpenGL_Dohoamaytinh\OpenGL Project\x64\Debug\Project_amtra.exe
